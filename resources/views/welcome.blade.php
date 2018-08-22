@@ -67,7 +67,7 @@
     </head>
     <body>
         <div id="app" class="flex-center position-ref full-height">
-            <app-component></app-component>
+            <admin-component></admin-component>
         </div>
         <script src="{{mix("/js/app.js")}}"></script>
     </body>
