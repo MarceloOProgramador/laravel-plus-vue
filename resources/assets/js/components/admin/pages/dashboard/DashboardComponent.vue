@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Meu primeiro component :)</h1>
+      <h1>home</h1>
     </div>
 </template>
 
@@ -10,6 +10,6 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 
 </style>
